@@ -7,9 +7,10 @@
  Открыта главная страница сайта:
  
  тест сервер - https://test2.stroyrem-nn.ru/ 
- прод сервер - https://test2.stroyrem-nn.ru/
+ прод сервер - https://stroyrem-nn.ru/
  
  и макет сайта:
+ 
  https://www.figma.com/file/s9jvN3vn3vdxntqJZzDeJA/Stroyrem-3103?type=design&node-id=449-22491&mode=design&t=Xi32y0ov4ctbo3lF-0
 
 * Шаги:
