@@ -7,7 +7,7 @@
  Открыта главная страница сайта:
  
  тест сервер - https://test2.stroyrem-nn.ru/ 
- прод сервер - https://test2.stroyrem-nn.ru/
+ прод сервер - https://stroyrem-nn.ru/
 
 * Шаги:
   
