@@ -2,16 +2,25 @@
 
  Функционал кнопок в шапке главной страницы
  
+ * Окружение: 
+
+	Десктоп: браузер Chrome версия 114.0.5735.199, Yandex Версия 23.7.0.2526
+	
+	Тач: Cмартфон Xiaomi mi 9 lite MIUI 12.5.2
+ 
 * Предусловие:
 
  Открыта главная страница сайта:
  
  тест сервер - https://test2.stroyrem-nn.ru/ 
+ 
  прод сервер - https://stroyrem-nn.ru/
  
- и макет сайта:
+ макет сайта:
  
  https://www.figma.com/file/s9jvN3vn3vdxntqJZzDeJA/Stroyrem-3103?type=design&node-id=449-22491&mode=design&t=Xi32y0ov4ctbo3lF-0
+ 
+ Открыто гамбургер - меню (смартфон)
 
 * Шаги:
 
