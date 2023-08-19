@@ -49,135 +49,14 @@
 
 Автор: Надежда
 
-1) desktop - Chrome версия 114.0.5735.199 (64-бит)
-
-	* Тестовый сервер 
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:00 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:00 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-
-	* Продовый сервер
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:01 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:01 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:01 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
- 
-2) desktop - Firefox версия 115.0.2 (64-бит)
-
-	* Тестовый сервер 
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:02 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:02 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:02 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-
-	* Продовый сервер 
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:03 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:03 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:03 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-
-3) mobile: Chrome версия 114.0.5735.196
-
-	* Тестовый сервер 
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:04 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:04 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:04 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-
-	* Продовый сервер 
-
-	Тест выполнен
-	| Дата | Время | Результат | Имя | Баг № Trello |
-	| --- | --- | --- | --- | --- |
-	| 1 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 2 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 3 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 4 | 2023-08-04 | 13:00 | PASS | Надежда |  |  
-	| 5 | 2023-08-04 | 13:00 | PASS | Надежда |  | 
-	| 6 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 7 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 8 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	| 9 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |  
-	| 10 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 11 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 12 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 | 
-	| 13 | 2023-08-04 | 13:00 | FAIL | Надежда | https://trello.com/c/YSPP5cI3 |
-	
-
 * Отчет о тестировании
   
 Тестовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA  |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 24.07.23 | 13:10 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | 1.FAIL https://trello.com/c/YSPP5cI3 2.FAIL https://trello.com/c/YSPP5cI3 3.FAIL https://trello.com/c/YSPP5cI3 4.PASS 5.PASS 6.FAIL https://trello.com/c/YSPP5cI3 7.FAIL https://trello.com/c/YSPP5cI3 8.FAIL https://trello.com/c/YSPP5cI3 9.FAIL https://trello.com/c/YSPP5cI3 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | 1.PASS 2.PASS 3.PASS 4.PASS 5.PASS 6.PASS 7.PASS 8.PASS 9.PASS | 16.06.23 | Надежда |  
+| 24.07.23 | 13:10 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | 1.FAIL https://trello.com/c/YSPP5cI3 2.FAIL https://trello.com/c/YSPP5cI3 3.FAIL https://trello.com/c/YSPP5cI3 6.FAIL https://trello.com/c/YSPP5cI3 7.FAIL https://trello.com/c/YSPP5cI3 8.FAIL https://trello.com/c/YSPP5cI3 9.FAIL https://trello.com/c/YSPP5cI3 4.PASS 5.PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | 1.FAIL https://trello.com/c/YSPP5cI3 2.FAIL https://trello.com/c/YSPP5cI3 3.FAIL https://trello.com/c/YSPP5cI3 6.FAIL https://trello.com/c/YSPP5cI3 7.FAIL https://trello.com/c/YSPP5cI3 8.FAIL https://trello.com/c/YSPP5cI3 9.FAIL https://trello.com/c/YSPP5cI3 4.PASS 5.PASS | 16.06.23 | Надежда |  
 
 Продовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 24.07.23 | 14:59 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | 1,2,3,6,7,8,9 FAIL https://trello.com/c/YSPP5cI3  4,5 PASS | Chrome версия 115.0.5790.171 MIUI 12.5.13 | 1.PASS 2.PASS 3.PASS 4.PASS 5.PASS 6.PASS 7.PASS 8.PASS 9.PASS | 16.06.23 | Надежда |  
+| 24.07.23 | 14:59 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | 1.FAIL https://trello.com/c/YSPP5cI3 2.FAIL https://trello.com/c/YSPP5cI3 3.FAIL https://trello.com/c/YSPP5cI3 6.FAIL https://trello.com/c/YSPP5cI3 7.FAIL https://trello.com/c/YSPP5cI3 8.FAIL https://trello.com/c/YSPP5cI3 9.FAIL https://trello.com/c/YSPP5cI3 4.PASS 5.PASS | Chrome версия 115.0.5790.171 MIUI 12.5.13 | 1.FAIL https://trello.com/c/YSPP5cI3 2.FAIL https://trello.com/c/YSPP5cI3 3.FAIL https://trello.com/c/YSPP5cI3 6.FAIL https://trello.com/c/YSPP5cI3 7.FAIL https://trello.com/c/YSPP5cI3 8.FAIL https://trello.com/c/YSPP5cI3 9.FAIL https://trello.com/c/YSPP5cI3 4.PASS 5.PASS | 16.06.23 | Надежда |  
