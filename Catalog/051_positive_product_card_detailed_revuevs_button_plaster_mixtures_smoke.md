@@ -144,7 +144,7 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 	Тест выполнен
 	| Дата | Время | Результат | Имя | Баг № Trello |
 	| --- | --- | --- | --- | --- |
-	| 2023-08-14 | 02:09 | PASS | Надежда |  | 
+	| 2023-08-14 | 02:09 | FAIL | Надежда | https://trello.com/c/SshXUPEN/319 | 
 	
 	
 
@@ -173,4 +173,4 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 	Тест выполнен
 	| Дата | Время | Результат | Имя | Баг № Trello |
 	| --- | --- | --- | --- | --- |
-	| 2023-08-14 | 02:12 | PASS | Надежда |  |
+	| 2023-08-14 | 02:12 | FAIL | Надежда | https://trello.com/c/SshXUPEN/319 |
