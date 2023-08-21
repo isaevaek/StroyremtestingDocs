@@ -109,3 +109,62 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 | 2023-07-31 | 21:08 | Chrome 114.0.5735.248 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 | |  | 04.07.23 | Наталья К. | 
 | 2023-07-31 | 21:11 | Yandex 23.7.0.2534 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 |  |  | 04.07.23 | Наталья К. |            
 
+
+Проверка к деплою 13.08.23
+
+5. desktop - Chrome версия 114.0.5735.199 (64-бит)
+
+	* Тестовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:30 | FAIL | Надежда | https://trello.com/c/0fFtHLc9 | 
+	
+6. desktop - Firefox версия 115.0.2 (64-бит)
+
+	* Тестовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:31 | FAIL | Надежда | https://trello.com/c/0fFtHLc9   https://trello.com/c/NSwTjyjj | 
+ 
+7. mobile: Chrome версия 114.0.5735.196
+
+	* Тестовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:33 | FAIL | Надежда | https://trello.com/c/SshXUPEN | 
+	
+	
+
+8. desktop - Chrome версия 114.0.5735.199 (64-бит)
+
+	* Продовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:34 | FAIL | Надежда | https://trello.com/c/0fFtHLc9   https://trello.com/c/NSwTjyjj | 
+	
+9. desktop - Firefox версия 115.0.2 (64-бит)
+
+	* Продовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:34 | FAIL | Надежда | https://trello.com/c/0fFtHLc9 | 
+
+10. mobile: Chrome версия 114.0.5735.196
+
+	* Продовый сервер 
+
+	Тест выполнен
+	| Дата | Время | Результат | Имя | Баг № Trello |
+	| --- | --- | --- | --- | --- |
+	| 2023-08-14 | 01:35 | FAIL | Надежда | https://trello.com/c/SshXUPEN |
+
