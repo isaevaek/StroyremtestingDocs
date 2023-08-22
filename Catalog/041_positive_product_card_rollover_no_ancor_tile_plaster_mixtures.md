@@ -48,7 +48,7 @@ Priority = low
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |2023-07-29 | 21:27 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/RLWHtfBB/301 |  | | 04.07.23 | Наталья К. | 
 |2023-07-29 | 21:30 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/RLWHtfBB/301 |  |  | 04.07.23 | Наталья К. |
-| 13.08.23 | 02:03 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/RLWHtfBB/301 | 13.08.23 | Надежда | 
+| 13.08.23 | 02:03 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/RLWHtfBB/301 | | | 13.08.23 | Надежда | 
 
 
 * Продовый сервер
@@ -57,5 +57,5 @@ Priority = low
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 2023-07-29 | 21:28 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/RLWHtfBB/301 | | | 04.07.23 | Наталья К. | 
 | 2023-07-29 | 21:31 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/RLWHtfBB/301 |  |  | 04.07.23 | Наталья К. |
-| 14.08.23 | 00:13 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/RLWHtfBB/301 | 13.08.23 | Надежда | 
+| 14.08.23 | 00:13 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/RLWHtfBB/301 | | | 13.08.23 | Надежда | 
 
