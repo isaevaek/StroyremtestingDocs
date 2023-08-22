@@ -33,6 +33,7 @@ Priority = middle
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |2023-08-01 | 13:07 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196  | PASS | 04.07.23 | Наталья К. | 
 |2023-08-01 | 13:10 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 00:50 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/1qIbzMb7/312 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/1qIbzMb7/312 | 13.08.23 | Надежда |  
 
 
 * Продовый сервер
@@ -41,6 +42,7 @@ Priority = middle
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 2023-08-01 | 13:08 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196 | PASS | 04.07.23 | Наталья К. | 
 | 2023-08-01 | 13:11 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 00:53 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/1qIbzMb7/312 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/1qIbzMb7/312 | 13.08.23 | Надежда |  
 
 
 

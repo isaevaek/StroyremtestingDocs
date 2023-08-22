@@ -33,6 +33,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |2023-07-24 | 15:17 | Chrome 114.0.5735.248 | https://trello.com/c/nEsIqezD/239 | Samsung Galaxy A50/Chrome 114.0.5735.196 | https://trello.com/c/nEsIqezD/239  | 04.07.23 | Наталья К. | 
 |2023-07-24 | 15:20 | Yandex 23.7.0.2534 | https://trello.com/c/nEsIqezD/239  |  |  | 04.07.23 | Наталья К. |
+ 12.08.23 | 12:50 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | PASS | 16.06.23 | Надежда |  
 
 
 * Продовый сервер
@@ -41,3 +42,4 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 2023-07-24 | 15:18 | Chrome 114.0.5735.248 | https://trello.com/c/nEsIqezD/239 | Samsung Galaxy A50/Chrome 114.0.5735.196 | https://trello.com/c/nEsIqezD/239  | 04.07.23 | Наталья К. | 
 | 2023-07-24 | 15:21 | Yandex 23.7.0.2534 | https://trello.com/c/nEsIqezD/239  |  |  | 04.07.23 | Наталья К. |
+ 13.08.23 | 22:05 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | PASS | 13.08.23 | Надежда |  

@@ -28,13 +28,15 @@ Priority = high
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-|2023-07-30 | 19:07 | Chrome 114.0.5735.248 | https://trello.com/c/87G2TPyC/305 |Samsung Galaxy A50/Chrome 114.0.5735.196  | https://trello.com/c/87G2TPyC/305 | 04.07.23 | Наталья К. | 
-|2023-07-30 | 19:10 | Yandex 23.7.0.2534 | https://trello.com/c/87G2TPyC/305 |  |  | 04.07.23 | Наталья К. |
+|2023-07-30 | 19:07 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/87G2TPyC/305 |Samsung Galaxy A50/Chrome 114.0.5735.196  | FAIL https://trello.com/c/87G2TPyC/305 | 04.07.23 | Наталья К. | 
+|2023-07-30 | 19:10 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/87G2TPyC/305 |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 00:44 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/87G2TPyC/305 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/87G2TPyC/305 | 13.08.23 | Надежда |  
 
 
 * Продовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 2023-07-30 | 19:08 | Chrome 114.0.5735.248 | https://trello.com/c/87G2TPyC/305 |Samsung Galaxy A50/Chrome 114.0.5735.196 | https://trello.com/c/87G2TPyC/305 | 04.07.23 | Наталья К. | 
-| 2023-07-30 | 19:11 | Yandex 23.7.0.2534 | https://trello.com/c/87G2TPyC/305 |  |  | 04.07.23 | Наталья К. |
+| 2023-07-30 | 19:08 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/87G2TPyC/305 |Samsung Galaxy A50/Chrome 114.0.5735.196 | FAIL https://trello.com/c/87G2TPyC/305 | 04.07.23 | Наталья К. | 
+| 2023-07-30 | 19:11 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/87G2TPyC/305 |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 00:47 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/87G2TPyC/305 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/87G2TPyC/305 | 13.08.23 | Надежда |  
