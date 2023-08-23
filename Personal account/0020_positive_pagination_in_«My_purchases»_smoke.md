@@ -18,9 +18,11 @@
 Тестовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA  |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 14.07.23 | 14:00 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/t68TTSA9 | 16.06.23 | Надежда |  
+| 14.07.23 | 14:00 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/t68TTSA9 | 16.06.23 | Надежда |
+| 12.08.23 | 15:20 | Yandex версия 23.7.2.766  Microsoft Edge версия 115.0.1901.202 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 114.0.5735.196 Samsung Galaxy A50 | FAIL https://trello.com/c/t68TTSA9 | 16.06.23 | Наталья К. |  
 
 Продовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 14.07.23 | 14:05 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/t68TTSA9 | 16.06.23 | Надежда |  
+| 14.07.23 | 14:05 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/t68TTSA9 | 16.06.23 | Надежда |
+| 13.08.23 | 15:20 | Yandex версия 23.7.2.767  Microsoft Edge версия 115.0.1901.203 | FAIL https://trello.com/c/t68TTSA9 | Chrome версия 114.0.5735.196 Samsung Galaxy A50 | FAIL https://trello.com/c/t68TTSA9 | 13.08.23 | Наталья К. |  

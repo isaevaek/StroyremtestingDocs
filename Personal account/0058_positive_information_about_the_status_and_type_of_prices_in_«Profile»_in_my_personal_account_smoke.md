@@ -23,4 +23,5 @@
 Продовый сервер
 | Дата | Время | Версия браузера Десктоп | Результат/Баг в Трелло Десктоп|  Версия браузера и ОС Тач |Результат/Баг в Трелло Тач| Дата релиза| QA |
 | --- | --- | --- | --- |  --- | --- | --- | --- |   
-| 19.07.23 | 15:55 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/8vbMZDVK | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/8vbMZDVK | 16.06.23 | Надежда |  
+| 19.07.23 | 15:55 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/8vbMZDVK | Chrome версия 115.0.5790.171 MIUI 12.5.13 | FAIL https://trello.com/c/8vbMZDVK | 16.06.23 | Надежда |
+| 14.08.23 | 15:00 | Yandex версия 23.7.2.768  Microsoft Edge версия 115.0.1901.204 | FAIL https://trello.com/c/8vbMZDVK | Chrome версия 114.0.5735.196 Samsung Galaxy A50 | FAIL https://trello.com/c/8vbMZDVK | 13.08.23 | Наталья К. |   
