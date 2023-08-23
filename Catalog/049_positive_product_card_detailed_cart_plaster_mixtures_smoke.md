@@ -39,6 +39,7 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |2023-08-01 | 17:27 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196  | PASS | 04.07.23 | Наталья К. | 
 |2023-08-01 | 17:30 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 01:55 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | PASS | 13.08.23 | Надежда |  
 
 
 * Продовый сервер
@@ -47,3 +48,4 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 2023-08-01 | 17:28 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196 | PASS | 04.07.23 | Наталья К. | 
 | 2023-08-01 | 17:31 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 01:58 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | PASS | 13.08.23 | Надежда |  
