@@ -98,14 +98,18 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-|2023-07-31 | 21:07 | Chrome 114.0.5735.248 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 | |  | 04.07.23 | Наталья К. | 
-|2023-07-31 | 21:10 | Yandex 23.7.0.2534 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 |  |  | 04.07.23 | Наталья К. |
+|2023-07-31 | 21:07 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/0fFtHLc9317   FAIL https://trello.com/c/NSwTjyjj/318 | |  | 04.07.23 | Наталья К. | 
+|2023-07-31 | 21:10 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/0fFtHLc9317   FAIL https://trello.com/c/NSwTjyjj/318 |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 01:30 | Chrome версия 114.0.5735.199 | FAIL https://trello.com/c/0fFtHLc9/317 |  |  | 13.08.23 | Надежда | 
+| 14.08.23 | 01:30 | Firefox версия 115.0.2 | FAIL https://trello.com/c/0fFtHLc9/317  FAIL https://trello.com/c/NSwTjyjj/318 |  |  | 13.08.23 | Надежда |  
 
 
 * Продовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 2023-07-31 | 21:08 | Chrome 114.0.5735.248 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 | |  | 04.07.23 | Наталья К. | 
-| 2023-07-31 | 21:11 | Yandex 23.7.0.2534 | https://trello.com/c/0fFtHLc9317    https://trello.com/c/NSwTjyjj/318 |  |  | 04.07.23 | Наталья К. |            
+| 2023-07-31 | 21:08 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/0fFtHLc9317   FAIL https://trello.com/c/NSwTjyjj/318 | |  | 04.07.23 | Наталья К. | 
+| 2023-07-31 | 21:11 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/0fFtHLc9317   FAIL https://trello.com/c/NSwTjyjj/318 |  |  | 04.07.23 | Наталья К. |    
+| 14.08.23 | 01:34 | Chrome версия 114.0.5735.199 | FAIL https://trello.com/c/0fFtHLc9/317  FAIL https://trello.com/c/NSwTjyjj/318 |  |  | 13.08.23 | Надежда |   
+| 14.08.23 | 01:34 | Firefox версия 115.0.2 | FAIL https://trello.com/c/0fFtHLc9/317 |  |  | 13.08.23 | Надежда |       
 

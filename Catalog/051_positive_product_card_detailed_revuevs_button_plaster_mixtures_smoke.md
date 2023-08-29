@@ -35,13 +35,15 @@ https://stroyrem-nn.ru/products/shtukaturka-tsementnaya-zaschitnaya-tonkoslojnay
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-|2023-08-01 | 20:27 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196  | https://trello.com/c/SshXUPEN/319 | 04.07.23 | Наталья К. | 
+|2023-08-01 | 20:27 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196  | FAIL https://trello.com/c/SshXUPEN/319 | 04.07.23 | Наталья К. | 
 |2023-08-01 | 20:30 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 02:07 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/SshXUPEN/319 | 13.08.23 | Надежда |  
 
 
 * Продовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 2023-08-01 | 20:28 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196 | https://trello.com/c/SshXUPEN/319 | 04.07.23 | Наталья К. | 
+| 2023-08-01 | 20:28 | Chrome 114.0.5735.248 | PASS |Samsung Galaxy A50/Chrome 114.0.5735.196 | FAIL https://trello.com/c/SshXUPEN/319 | 04.07.23 | Наталья К. | 
 | 2023-08-01 | 20:31 | Yandex 23.7.0.2534 | PASS |  |  | 04.07.23 | Наталья К. |
+| 14.08.23 | 02:10 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS  | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/SshXUPEN/319 | 13.08.23 | Надежда |  

@@ -51,12 +51,14 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |2023-07-26 | 16:27 | Chrome 114.0.5735.248 | PASS | Samsung Galaxy A50/Chrome 114.0.5735.196 | PASS | 04.07.23 | Наталья К. | 
 |2023-07-26 | 16:30 | Yandex 23.5.4.674 | PASS |  |  | 04.07.23 | Наталья К. |
+| 12.08.23 | 21:28 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | PASS | Chrome версия 114.0.5735.196 MIUI 12.5.13 | PASS | 16.06.23 | Надежда |  
 
 
 * Продовый сервер
 
 | Дата | Время | Браузер Desktop| Результат/Баг № Trello| Браузер тач| Результат/Баг № Trello| Дата релиза |Имя |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 2023-07-26 | 16:28 | Chrome 114.0.5735.248 | https://trello.com/c/L2aAXVNy/238 | Samsung Galaxy A50/Chrome 114.0.5735.196 | https://trello.com/c/L2aAXVNy/238 | 04.07.23 | Наталья К. | 
-| 2023-07-26 | 16:31 | Yandex 23.7.0.2534 | https://trello.com/c/L2aAXVNy/238 |  |  | 04.07.23 | Наталья К. |
+| 2023-07-26 | 16:28 | Chrome 114.0.5735.248 | FAIL https://trello.com/c/L2aAXVNy/238 | Samsung Galaxy A50/Chrome 114.0.5735.196 | FAIL https://trello.com/c/L2aAXVNy/238 | 04.07.23 | Наталья К. | 
+| 2023-07-26 | 16:31 | Yandex 23.7.0.2534 | FAIL https://trello.com/c/L2aAXVNy/238 |  |  | 04.07.23 | Наталья К. |
+| 13.08.23 | 23:00 | Chrome версия 114.0.5735.199 Firefox версия 115.0.2 | FAIL https://trello.com/c/L2aAXVNy/238 | Chrome версия 114.0.5735.196 MIUI 12.5.13 | FAIL https://trello.com/c/L2aAXVNy/238 | 13.08.23 | Надежда |  
 
